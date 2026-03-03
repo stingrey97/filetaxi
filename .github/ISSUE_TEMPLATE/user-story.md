@@ -7,7 +7,7 @@ assignees: stingrey97
 
 ---
 
-## User Story: As a [user], I want to [action], so that [benefit]:
+## User Story:
 As a XXX, I want to XXX, so that XXX.
 
 ## Acceptance Criteria:
